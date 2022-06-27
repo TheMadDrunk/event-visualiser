@@ -1,5 +1,9 @@
 # event-visualiser
 java project to view the events logged by the OS (Window 10).
+you can :
+- upload the events to the DB
+- select a file or filter events from DB to analyse.
+- get noctifications on the users who just submitted their logs to the DB
 
 ![32](https://user-images.githubusercontent.com/56322386/175397634-5fc44f8b-812e-454c-bb67-7033308757a5.png)
 ![dede](https://user-images.githubusercontent.com/56322386/175397644-be2f9188-9d24-4cb4-98ff-73fe82a0ca6f.png)
